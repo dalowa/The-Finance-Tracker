@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="du_color_1">#00FEAB</color>
+    <color name="du_color_2">#00DE96</color>
+    <color name="du_color_3">#00BF80</color>
+    <color name="du_color_4">#009F6B</color>
+    <color name="du_color_5">#007F55</color>
+    <color name="du_color_6">#005F40</color>
+    <color name="du_color_7">#00402B</color>
+    <color name="du_color_8">#002015</color>
+</resources>

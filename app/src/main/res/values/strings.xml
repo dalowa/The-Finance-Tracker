@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">The Finance Tracker</string>
+    <string name="app_title">THE FINANCE TRACKER</string>
+    <string name="app_phrase">simple and efficient</string>
+    <string name="app_mainButton">START</string>
+    <string name="app_btnStart">v0.0.0</string>
+
+    <string name="createSessionPage_title">NEW SESSION</string>
+    <string name="createSessionPage_name">Name</string>
+    <string name="createSessionPage_namePlaceholder">John Doe</string>
+    <string name="createSessionPage_password">Password</string>
+    <string name="createSessionPage_passwordPlaceholder">**********</string>
+    <string name="createSessionPage_button">CREATE</string>
+
+    <string name="logInPage_title">Hello,</string>
+    <string name="logInPage_name">John Doe</string>
+    <string name="logInPage_password">PASSWORD</string>
+    <string name="logInPage_passwordPlaceholder">**********</string>
+    <string name="logInPage_button">CONTINUE</string>
+</resources>
